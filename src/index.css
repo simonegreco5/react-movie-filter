@@ -1,0 +1,15 @@
+header{
+    padding: 5rem;
+    text-align: center;
+    position: relative;
+
+    h5{
+        position: absolute;
+        top: 55%;
+        left: 50%;
+    }
+}
+
+main{
+
+}
