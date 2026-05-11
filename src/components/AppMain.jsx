@@ -10,7 +10,7 @@ export default function AppMain() {
         <main>
             <div className="container">
 
-                {/* filtraggio - bottone con dropdown */}
+                {/* filtraggio - bottone con dropdown o imput con search */}
                 
 
                 {/* tabella film */}
