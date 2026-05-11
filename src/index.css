@@ -1,15 +1,26 @@
+body{
+    background-color: rgb(56, 55, 55);
+}
+
 header{
     padding: 5rem;
     text-align: center;
     position: relative;
+    background-color: rgb(146, 11, 11);
+    color: white;
 
     h5{
         position: absolute;
         top: 55%;
         left: 50%;
+        color: rgb(210, 171, 17);
     }
 }
 
 main{
+ padding: 3rem;
 
+ select{
+    margin-bottom: 2rem;
+ }
 }
