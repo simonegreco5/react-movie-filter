@@ -88,7 +88,7 @@ export default function AppMain() {
 
                 {/* filtraggio - bottone con dropdown o imput con search */}
                 <select onChange={(e) => setFiltro(e.target.value)} className="form-select">
-                    <option value="tutti">Tutti</option>
+                    <option value="">Tutti</option>
                     <option value="Fantascienza">Fantascienza</option>
                     <option value="Thriller">Thriller</option>
                     <option value="Romantico">Romantico</option>
